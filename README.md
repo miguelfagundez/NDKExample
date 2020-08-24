@@ -10,4 +10,4 @@ https://play.google.com/store/apps/details?id=com.devproject.miguelfagundez.roma
 
 ### * Visual results and code structure:
 
-<img src="images/2345.png" width="280"> - <img src="images/128.png" width="280"> - <img src="images/structure.png" width="280">
+<img src="images/2345.png" width="250"> - <img src="images/128.png" width="250"> - <img src="images/structure.png" width="250">
